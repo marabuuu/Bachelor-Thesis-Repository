@@ -6,3 +6,5 @@ In _**notebooks**_ the single parts of the image analysis pipeline can be found 
 In _**plots**_ are figures and plots shown in the bachelor thesis (enumerated accordingly).
 
 In _**tables**_ are dataframes generated from the acquired crystal data which are required for some notebooks to run.
+
+This project was a shared project between [Robert Haase Group](https://physics-of-life.tu-dresden.de/research/core-groups/bio-image-analysis) and [Rita Mateus Group](https://physics-of-life.tu-dresden.de/research/core-groups/mateus).
